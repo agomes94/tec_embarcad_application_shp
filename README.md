@@ -8,6 +8,6 @@ Na análise abaixo foram utilizados dados disponibilizados no John Deere's Githu
 
 Objetivo:
 
-A análise tem como objetivo principal avaliar a qualidade da aplicação, quantificada pelo desvio entre a taxa aplicada ('AppliedRat') e a taxa alvo ('TargetRat'). Como objetivos específicos destaco a identificação das regiões com subdose e superdose, assim como a determinação do percentual de área trabalhada dentro de uma faixa de tolerância.
+A análise tem como objetivo principal avaliar a qualidade da aplicação, quantificada pelo desvio entre a taxa aplicada ('AppliedRat') e a taxa alvo ('TargetRat'). Como objetivos específicos destaco a identificação das regiões com sub-dose e super-dose, assim como a determinação do percentual de área trabalhada dentro de uma faixa de tolerância.
 
 [1]. John Deere's Github: https://github.com/JohnDeere
